@@ -1,3 +1,3 @@
 # TaskApp
 
-### Criado com objetivo de organizar as tarfeas do dia a dia, melhorando a prosutividade.
+### Criado com objetivo de organizar as tarefas do diárias, melhorando a produtividade.
