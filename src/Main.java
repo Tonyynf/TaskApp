@@ -1,3 +1,5 @@
+import com.projeto.model.Tarefa;
+
 import java.util.ArrayList;
 import java.util.Objects;
 import java.util.Scanner;
